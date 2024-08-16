@@ -1,5 +1,8 @@
 {
     "[python]": {
         "editor.defaultFormatter": null
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./join"
+    ]
 }

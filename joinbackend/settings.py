@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '85.215.196.7',
-    'join.vks.info'
+
 ]
 
 
@@ -143,5 +143,5 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
-    
+    "http://85.215.196.7"
 ]
